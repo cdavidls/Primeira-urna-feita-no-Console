@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\cauculadoraFuncoesTeste\cauculadoraFuncoesTeste\bin\Debug\cauculadoraFuncoesTeste.exe.config
+C:\Users\david\source\repos\cauculadoraFuncoesTeste\cauculadoraFuncoesTeste\bin\Debug\cauculadoraFuncoesTeste.exe
+C:\Users\david\source\repos\cauculadoraFuncoesTeste\cauculadoraFuncoesTeste\bin\Debug\cauculadoraFuncoesTeste.pdb
+C:\Users\david\source\repos\cauculadoraFuncoesTeste\cauculadoraFuncoesTeste\obj\Debug\cauculadoraFuncoesTeste.csprojAssemblyReference.cache
+C:\Users\david\source\repos\cauculadoraFuncoesTeste\cauculadoraFuncoesTeste\obj\Debug\cauculadoraFuncoesTeste.exe
+C:\Users\david\source\repos\cauculadoraFuncoesTeste\cauculadoraFuncoesTeste\obj\Debug\cauculadoraFuncoesTeste.pdb
